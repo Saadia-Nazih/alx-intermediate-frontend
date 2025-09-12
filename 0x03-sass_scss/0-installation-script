@@ -1,0 +1,6 @@
+ "# Steps to install SASS on this system" >>
+ 
+ 0-install-script
+1. Install NVM (Node Version Manager) to manage Node.js versions" >> 0-install-script
+2. Install Node.js version 20" >> 0-install-script
+3. Install SASS globally via npm" >> 0-install-script
